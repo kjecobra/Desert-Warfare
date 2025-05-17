@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Desert Warfare",
+    "description": "Once green and full of life, it’s now a sun-scorched wasteland of dust, ruin, and blood. Raiders, mutants, synths, gunners, and worse roam the open desert, smarter and more aggressive than ever. Death comes quickly here",
+    "author": "Reaper",
+    "maintainers": [
+      "github/kjecobra"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "Combat Overhaul",
+      "Total Overhaul",
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/kjecobra/Jungle-Warfare/blob/main/Fallout%204%20Screenshot%202024.05.06%20-%2019.19.04.77.png?raw=true",
+      "readme": "https://github.com/kjecobra/Desert-Warfare/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Desert%20Warfare.wabbajack_0f1dfdff-fe00-446b-aa92-df60e32d503e",
+      "machineURL": "DesertWarfare",
+      "discordURL": "https://discord.gg/4JnNeZyE"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 1166,
+      "SizeOfArchives": 323011454730,
+      "NumberOfInstalledFiles": 218407,
+      "SizeOfInstalledFiles": 459544666754
+    },
+    "version": "4.0"
+  }
+]
