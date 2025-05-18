@@ -9,17 +9,15 @@
     ],
     "game": "fallout4",
     "tags": [
-      "Combat Overhaul",
-      "Total Overhaul",
     ],
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/kjecobra/Jungle-Warfare/blob/main/Fallout%204%20Screenshot%202024.05.06%20-%2019.19.04.77.png?raw=true",
+      "image": "https://github.com/kjecobra/Desert-Warfare/blob/main/vq4wrpga.png",
       "readme": "https://github.com/kjecobra/Desert-Warfare/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Desert%20Warfare.wabbajack_7b6aac3e-d8d8-451a-bbcd-61a77c9d9b76",
+      "download": "https://authored-files.wabbajack.org/Black%20Desert%20Online%20Hairs.7z_6eddbf69-0e91-4508-b042-703bc00743c1",
       "machineURL": "DesertWarfare",
       "discordURL": "https://discord.gg/4JnNeZyE"
     },
@@ -27,10 +25,10 @@
       "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "e1+K7eJbDJw=",
       "Size": 0,
-      "NumberOfArchives": 1166,
-      "SizeOfArchives": 323011454730,
-      "NumberOfInstalledFiles": 218407,
-      "SizeOfInstalledFiles": 459544666754
+      "NumberOfArchives": 1167,
+      "SizeOfArchives": 320135245789,
+      "NumberOfInstalledFiles": 218415,
+      "SizeOfInstalledFiles": 461063144774
     },
     "version": "4.0"
   }
